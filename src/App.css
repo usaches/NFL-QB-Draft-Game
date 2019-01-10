@@ -1,0 +1,24 @@
+.wrapper {
+  height: 110%;
+  display: flex;
+  flex-flow: row wrap;
+  padding:0;
+  justify-content: space-around;
+  align-content: flex-start;
+  background-color: black;
+}
+#inst {
+  background-color: black;
+  color: yellow;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+  font-size: 18px;
+  margin-top: 0;
+}
+img {
+  max-height:160px;
+  max-width: 200px;
+}
+
+

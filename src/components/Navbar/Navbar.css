@@ -1,0 +1,10 @@
+.navbar {
+  width: 100%;
+  color: floralwhite;
+  background: darkgreen;
+  font-size: 20px;
+}
+#title {
+  font-size: 40px;
+  font-family: "Bookman Old Style", serif;
+}
