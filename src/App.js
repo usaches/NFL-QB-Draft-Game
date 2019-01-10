@@ -11,6 +11,12 @@ class App extends Component {
     score: 0
   };
 
+
+
+
+
+
+  
   imageClick = event => {
     const currentQB = event.target.alt;
     const QBAlreadyClicked =
